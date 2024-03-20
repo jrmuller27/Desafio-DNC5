@@ -1,0 +1,25 @@
+# Data Cleaning & Data Wrangling
+Realizando a estruturaração uma base de dados para modelagem e realizando o pedido de uma empresa do ramo de e-commerce para levantar os indicadores de
+recência, frequência e ticket médio (RFM) dos seus clientes.
+
+![image](https://github.com/jrmuller27/data-cleaning-wrangling/assets/162505736/11bfc4ef-c93f-45f6-a6dd-8d75b67cdc3d)
+![image](https://github.com/jrmuller27/data-cleaning-wrangling/assets/162505736/2a177c22-9abf-4d4e-985c-93a85b29e715)
+![image](https://github.com/jrmuller27/data-cleaning-wrangling/assets/162505736/2172932c-89f9-4ff3-95b1-ece84b532273)
+![image](https://github.com/jrmuller27/data-cleaning-wrangling/assets/162505736/a54dbb79-12de-492d-9e4b-d1c88e29a69b)
+![image](https://github.com/jrmuller27/data-cleaning-wrangling/assets/162505736/2d52c3cd-b893-4efa-b648-6e9727411542)
+![image](https://github.com/jrmuller27/data-cleaning-wrangling/assets/162505736/ea72ae5f-7e75-4655-bc2f-c0b194e13403)
+![image](https://github.com/jrmuller27/data-cleaning-wrangling/assets/162505736/ed49a22d-0f36-4f12-9cec-9d0f4cdbc76e)
+![image](https://github.com/jrmuller27/data-cleaning-wrangling/assets/162505736/618cf728-c0c2-4e43-875e-90d71d808fdd)
+![image](https://github.com/jrmuller27/data-cleaning-wrangling/assets/162505736/4fb27240-74c7-4184-966c-6a66ba5aea50)
+![image](https://github.com/jrmuller27/data-cleaning-wrangling/assets/162505736/ea1d5d82-6ea5-476b-aab3-122d5b19d078)
+![image](https://github.com/jrmuller27/data-cleaning-wrangling/assets/162505736/325f3bf1-9c7c-4b0e-8246-94c0e1bc8136)
+![image](https://github.com/jrmuller27/data-cleaning-wrangling/assets/162505736/acbb2a1e-f1da-4d2b-b2e3-fcea2ccbaf7a)
+![image](https://github.com/jrmuller27/data-cleaning-wrangling/assets/162505736/5540755a-77bd-4c4f-9fba-baf04fbc2b04)
+![image](https://github.com/jrmuller27/data-cleaning-wrangling/assets/162505736/c7c87b33-7b44-4f78-9168-448a1fc7936f)
+![image](https://github.com/jrmuller27/data-cleaning-wrangling/assets/162505736/959ecb58-3c7d-4182-b046-8433fcde6d27)
+![image](https://github.com/jrmuller27/data-cleaning-wrangling/assets/162505736/928e1fbc-4dd5-4f9e-9faf-57d8b4a6d3bc)
+![image](https://github.com/jrmuller27/data-cleaning-wrangling/assets/162505736/57d2521d-d1c5-4202-9e62-6e8aa3460158)
+![image](https://github.com/jrmuller27/data-cleaning-wrangling/assets/162505736/4248118e-96a8-4a2f-9a04-ffe00b820893)
+![image](https://github.com/jrmuller27/data-cleaning-wrangling/assets/162505736/e27f9205-e462-4eea-8ce5-8652e81d761b)
+![image](https://github.com/jrmuller27/data-cleaning-wrangling/assets/162505736/e0db01b4-6fa8-4ae9-8384-94d2ae7c13cc)
+![image](https://github.com/jrmuller27/data-cleaning-wrangling/assets/162505736/c8ac4eb3-c98d-459e-8356-d810e6993ca6)
